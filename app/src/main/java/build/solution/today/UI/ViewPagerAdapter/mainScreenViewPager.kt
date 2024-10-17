@@ -1,9 +1,9 @@
 package build.solution.today.UI.ViewPagerAdapter
 
+import AdminPannelFragment
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import build.solution.today.UI.fragment.AdminPannelFragment
 import build.solution.today.UI.freagment.DoubtFragment
 import build.solution.today.UI.freagment.LastQuizeLeaderBoardFragment
 import build.solution.today.UI.freagment.ManagerFragment

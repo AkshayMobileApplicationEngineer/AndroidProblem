@@ -1,58 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <!-- Menu item for settings -->
     <item
-        android:id="@+id/action_settings"
-        android:title="Settings"
-
-        />
-
-    <!-- Menu item for about -->
+        android:id="@+id/nav_item1"
+        android:title="Item 1"/>
     <item
-        android:id="@+id/action_about"
-        android:title="About"
-
-        />
-
-    <!-- Menu item for logout -->
+        android:id="@+id/nav_item2"
+        android:title="Item 2"/>
     <item
-        android:id="@+id/action_logout"
-        android:title="Logout"
-
-        />
-
-    <!-- Menu item for profile -->
-    <item
-        android:id="@+id/action_profile"
-        android:title="Profile"
-
-       />
-
-    <!-- Menu item for help -->
-    <item
-        android:id="@+id/action_help"
-        android:title="Help"
-
-        />
-
-    <!-- Menu item for feedback -->
-    <item
-        android:id="@+id/action_feedback"
-        android:title="Feedback"
-
-        />
-
-    <!-- Menu item for privacy policy -->
-    <item
-        android:id="@+id/action_privacy_policy"
-        android:title="Privacy Policy"
-
-      />
-
-    <!-- Menu item for terms of service -->
-    <item
-        android:id="@+id/action_terms_of_service"
-        android:title="Terms of Service"
-        />
+        android:id="@+id/nav_item3"
+        android:title="Item 3"/>
 </menu>

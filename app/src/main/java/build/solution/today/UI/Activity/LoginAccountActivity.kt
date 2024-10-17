@@ -1,5 +1,6 @@
 package build.solution.today
 
+import AdminPannelFragment
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
@@ -7,7 +8,7 @@ import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import androidx.viewpager2.widget.ViewPager2
 import build.solution.retrofit.R
-import build.solution.today.UI.fragment.AdminPannelFragment
+
 import build.solution.today.UI.freagment.ManagerFragment
 import build.solution.today.UI.freagment.UserFragment
 import com.google.android.material.tabs.TabLayout
